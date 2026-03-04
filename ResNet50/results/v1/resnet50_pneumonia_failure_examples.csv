@@ -1,0 +1,4 @@
+image_path,pneumonia,y_true,y_prob,y_pred,is_error,margin,failure_category
+/nfs/turbo/si-acastel/mimic-project/data_raw/mimic-cxr-jpg_2_1_0_gcs/files/p12/p12702423/s54932317/5d99dd54-b526167b-ecf0e625-a8664607-ffea3011.jpg,0,0,0.9680012,1,1,0.46800120000000006,High-Confidence False Positive
+/nfs/turbo/si-acastel/mimic-project/data_raw/mimic-cxr-jpg_2_1_0_gcs/files/p15/p15114531/s52382860/bbe6ecaf-aac06564-603fea4c-3e3026e0-8a5cb7c8.jpg,1,1,0.096997306,0,1,0.40300269399999994,High-Confidence False Negative
+/nfs/turbo/si-acastel/mimic-project/data_raw/mimic-cxr-jpg_2_1_0_gcs/files/p11/p11413236/s59735304/1a0662d4-8bee75af-c5c452a9-4b43c737-b74d27c1.jpg,1,1,0.499852,0,1,0.00014799999999992597,Borderline Misclassification

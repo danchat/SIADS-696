@@ -1,0 +1,4 @@
+image_path,pneumothorax,y_true,y_prob,y_pred,is_error,margin,failure_category
+/nfs/turbo/si-acastel/mimic-project/data_raw/mimic-cxr-jpg_2_1_0_gcs/files/p16/p16751749/s53325992/4133d13c-b7509603-e76013d9-06a54774-fb044ffb.jpg,0,0,0.97475564,1,1,0.34975564000000003,High-Confidence False Positive
+/nfs/turbo/si-acastel/mimic-project/data_raw/mimic-cxr-jpg_2_1_0_gcs/files/p13/p13475033/s53018485/25fd1806-d10b52d5-9a3103c0-66e21a5f-36fb5086.jpg,1,1,0.10217191,0,1,0.52282809,High-Confidence False Negative
+/nfs/turbo/si-acastel/mimic-project/data_raw/mimic-cxr-jpg_2_1_0_gcs/files/p11/p11474065/s59648796/370db7dd-bdd6ffce-5e0e6b83-bc6f534f-61ce5045.jpg,1,1,0.62404615,0,1,0.0009538500000000338,Borderline Misclassification
