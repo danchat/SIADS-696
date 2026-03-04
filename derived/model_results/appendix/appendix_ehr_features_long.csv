@@ -1,0 +1,33 @@
+feature_name,feature_type,itemid,statistic,lab_label,fluid,category
+anchor_age,demographic,,,,,
+gender,demographic,,,,,
+lab_50868_max,lab,50868.0,max,Anion Gap,Blood,Chemistry
+lab_50868_mean,lab,50868.0,mean,Anion Gap,Blood,Chemistry
+lab_50868_min,lab,50868.0,min,Anion Gap,Blood,Chemistry
+lab_50882_max,lab,50882.0,max,Bicarbonate,Blood,Chemistry
+lab_50882_mean,lab,50882.0,mean,Bicarbonate,Blood,Chemistry
+lab_50882_min,lab,50882.0,min,Bicarbonate,Blood,Chemistry
+lab_50902_max,lab,50902.0,max,Chloride,Blood,Chemistry
+lab_50902_mean,lab,50902.0,mean,Chloride,Blood,Chemistry
+lab_50902_min,lab,50902.0,min,Chloride,Blood,Chemistry
+lab_50912_max,lab,50912.0,max,Creatinine,Blood,Chemistry
+lab_50912_mean,lab,50912.0,mean,Creatinine,Blood,Chemistry
+lab_50912_min,lab,50912.0,min,Creatinine,Blood,Chemistry
+lab_50931_max,lab,50931.0,max,Glucose,Blood,Chemistry
+lab_50931_mean,lab,50931.0,mean,Glucose,Blood,Chemistry
+lab_50931_min,lab,50931.0,min,Glucose,Blood,Chemistry
+lab_51221_max,lab,51221.0,max,Hematocrit,Blood,Hematology
+lab_51221_mean,lab,51221.0,mean,Hematocrit,Blood,Hematology
+lab_51221_min,lab,51221.0,min,Hematocrit,Blood,Hematology
+lab_50960_max,lab,50960.0,max,Magnesium,Blood,Chemistry
+lab_50960_mean,lab,50960.0,mean,Magnesium,Blood,Chemistry
+lab_50960_min,lab,50960.0,min,Magnesium,Blood,Chemistry
+lab_50971_max,lab,50971.0,max,Potassium,Blood,Chemistry
+lab_50971_mean,lab,50971.0,mean,Potassium,Blood,Chemistry
+lab_50971_min,lab,50971.0,min,Potassium,Blood,Chemistry
+lab_50983_max,lab,50983.0,max,Sodium,Blood,Chemistry
+lab_50983_mean,lab,50983.0,mean,Sodium,Blood,Chemistry
+lab_50983_min,lab,50983.0,min,Sodium,Blood,Chemistry
+lab_51006_max,lab,51006.0,max,Urea Nitrogen,Blood,Chemistry
+lab_51006_mean,lab,51006.0,mean,Urea Nitrogen,Blood,Chemistry
+lab_51006_min,lab,51006.0,min,Urea Nitrogen,Blood,Chemistry

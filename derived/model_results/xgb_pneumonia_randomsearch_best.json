@@ -1,0 +1,16 @@
+{
+  "task": "pneumonia",
+  "label_col": "y_pneumonia",
+  "n_rows": 20179,
+  "prevalence": 0.45874423906040934,
+  "best_cv_auprc": 0.5839348496684998,
+  "best_params": {
+    "clf__subsample": 0.7,
+    "clf__reg_lambda": 2.0,
+    "clf__n_estimators": 1200,
+    "clf__min_child_weight": 1,
+    "clf__max_depth": 8,
+    "clf__learning_rate": 0.01,
+    "clf__colsample_bytree": 0.8
+  }
+}

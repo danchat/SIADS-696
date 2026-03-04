@@ -1,0 +1,13 @@
+itemid,lab_label,available_statistics
+50868.0,Anion Gap,"max, mean, min"
+50882.0,Bicarbonate,"max, mean, min"
+50902.0,Chloride,"max, mean, min"
+50912.0,Creatinine,"max, mean, min"
+50931.0,Glucose,"max, mean, min"
+51221.0,Hematocrit,"max, mean, min"
+50960.0,Magnesium,"max, mean, min"
+50971.0,Potassium,"max, mean, min"
+50983.0,Sodium,"max, mean, min"
+51006.0,Urea Nitrogen,"max, mean, min"
+,(demographic),anchor_age
+,(demographic),gender

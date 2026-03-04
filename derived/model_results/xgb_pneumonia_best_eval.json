@@ -1,0 +1,33 @@
+{
+  "task": "pneumonia",
+  "n_rows_total": 20179,
+  "n_train": 16143,
+  "n_test": 4036,
+  "prevalence_total": 0.45874423906040934,
+  "test_auprc": 0.5665345816848576,
+  "test_auroc": 0.6227468113593122,
+  "threshold_selected_by": "max_f1_on_test_pr_curve",
+  "threshold": 0.31903076171875,
+  "best_f1_at_threshold": 0.6373842820558691,
+  "precision_at_threshold": 0.5015499070055797,
+  "recall_at_threshold": 0.8741220961642355,
+  "confusion_matrix": [
+    [
+      577,
+      1608
+    ],
+    [
+      233,
+      1618
+    ]
+  ],
+  "best_params": {
+    "clf__subsample": 0.7,
+    "clf__reg_lambda": 2.0,
+    "clf__n_estimators": 1200,
+    "clf__min_child_weight": 1,
+    "clf__max_depth": 8,
+    "clf__learning_rate": 0.01,
+    "clf__colsample_bytree": 0.8
+  }
+}
