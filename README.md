@@ -1,6 +1,6 @@
 # SIADS 696 Final Project
 
-This repository contains the code and documentation for our **SIADS 696 Milestone II project**, which investigates machine learning methods for predicting clinical outcomes using both **radiological imaging data and structured electronic health record (EHR) data**.
+This repository contains the code for our **SIADS 696 Milestone II project**, which investigates machine learning methods for predicting clinical outcomes using both **radiological imaging data and structured electronic health record (EHR) data**.
 
 ---
 
