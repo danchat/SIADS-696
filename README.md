@@ -65,4 +65,5 @@ All file paths in the code reflect the Turbo storage directory structure used on
 
 ## Important Notes
 
-- This repository contains all the source code used in the project. Some files may not be relevant to the final models discussed in the report. 
+- This repository contains all the source code used in the project. Some files may not be relevant to the final models discussed in the report.
+- The model checkpoints (.pth files) for ResNet were only uploaded to the Vocareum Shared Development Environment due to GitHub file size constraints
